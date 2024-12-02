@@ -1,4 +1,5 @@
 ## Hi there 👋
+<h1 align="center">I'm Eranga Madhushan. BCS Student at University of Ruhuna, Sri Lanka.</h1>
 
 <!--
 **Eranga2002/Eranga2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
