@@ -15,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Computer Science Student | 🧁 Cupcake Business Owner @ Magically Delicious | 🌐 Front-End Developer
+
+## 🔧 Technologies & Tools
+- Languages: HTML, CSS, JavaScript
+- Frameworks: React, TailwindCSS
+- Tools: VS Code, Git, Figma
+
+<!--## 🚀 Projects
+- [Project Name](link-to-project) - Description
+- [Magically Delicious](link-to-business-site) - My cupcake business-->
+
+## 🌱 Fun Facts
+- I’m currently learning Java Programming
+- I love baking and coding!
