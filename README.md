@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Computer Science Student | 🧁 Cupcake Business Owner @ Magically Delicious | 🌐 Front-End Developer
+🎓 Computer Science Student | Active Researcher @ Magically Delicious | 🌐 Front-End Developer
 
 ## 🔧 Technologies & Tools
 - Languages: HTML, CSS, JavaScript
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - [Magically Delicious](link-to-business-site) - My cupcake business-->
 
 ## 🌱 Fun Facts
-- I’m currently learning Java Programming
+- I’m currently learning reactJS and  Java Programming
 - I love baking and coding!
